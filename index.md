@@ -1,4 +1,4 @@
-## Me
+# My Website
 ![Image](src)
 
 ## My CV
